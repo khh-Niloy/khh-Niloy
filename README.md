@@ -10,6 +10,6 @@
 
 <p align="center">
   Currently solving
-  <a href="https://cf-problems-for-beginners.netlify.app/" target="_blank">A-level problems</a>
+  <a href="https://github.com/khh-Niloy/codeforces_solution" target="_blank">A-level problems</a>
   (basic)
 </p>
