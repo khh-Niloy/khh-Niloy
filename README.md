@@ -9,5 +9,7 @@
 </p>
 
 <p align="center">
-  <p align="center">Currently solving A-level problems (basic)</p>
+  Currently solving
+  <a href="https://cf-problems-for-beginners.netlify.app/" target="_blank">A-level problems</a>
+  (basic)
 </p>
