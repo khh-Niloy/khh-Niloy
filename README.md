@@ -10,7 +10,7 @@
 
 <p align="center">
   Codeforces Profile:
-  <a href="https://codeforces.com/profile/niloy_fixer" target="_blank">[niloy_fixer]</a>
+  <a href="https://codeforces.com/profile/niloy_fixer" target="_blank">niloy_fixer</a>
 </p>
 
 <p align="center">
