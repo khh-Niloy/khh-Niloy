@@ -14,8 +14,7 @@
 </p>
 
 <p align="center">
-  Currently solving <a href="https://github.com/khh-Niloy/codeforces_solution" target="_blank">A-level problems</a>
-  (basic)
+  Currently solving <a href="https://github.com/khh-Niloy/codeforces_solution" target="_blank">A & B-level problems</a>
 </p>
 
 <p align="center">
