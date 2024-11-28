@@ -14,7 +14,8 @@
 </p>
 
 <p align="center">
-  Currently solving <a href="https://github.com/khh-Niloy/codeforces_solution" target="_blank">A & B-level problems</a>
+  After solving couple of <a href="https://github.com/khh-Niloy/codeforces_solution" target="_blank">A & B-level problems</a>
+  , <br/> I'm now focused on web development.
 </p>
 
 <p align="center">
