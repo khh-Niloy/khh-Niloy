@@ -2,7 +2,7 @@
   <img height="" src="https://i.ibb.co.com/r3tC2nZ/Screenshot-2025-01-08-144554.png"  />
 </div>
 
-# 🔰 About Me
+## 🔰 About Me
 
 ### I am a learner and aspiring software engineer with a strong passion for developing fast, responsive MERN stack applications.
 
