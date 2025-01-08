@@ -9,7 +9,7 @@ I combine modern design principles, creativity, and technical expertise to trans
 
 I am committed to advancing my knowledge and skills to become a proficient software engineer, with a focus on building applications that deliver exceptional user experiences and exceed customer expectations. My objective is to address real-world challenges through technology, drive innovation, and develop software solutions that are impactful and widely adopted across various industries.
 
-### Professional Learning Objectives:
+### 🎯 Professional Learning Objectives:
 - Initiate learning and development with **Next.js**
 - Deepen expertise in **React.js**
 - Enhance proficiency in **Backend Development**
