@@ -4,8 +4,7 @@
 
 # 🔰 About Me
 
-### Hi, I'm **Hasib Hossain Niloy**, a **Learner** and **Aspiring Software Engineer** with a strong passion for developing fast, responsive **MERN stack applications**.  
-I combine modern design principles, creativity, and technical expertise to transform ideas into innovative, functional solutions.
+### I am a learner and aspiring software engineer with a strong passion for developing fast, responsive MERN stack applications.
 
 I am committed to advancing my knowledge and skills to become a proficient software engineer, with a focus on building applications that deliver exceptional user experiences and exceed customer expectations. My objective is to address real-world challenges through technology, drive innovation, and develop software solutions that are impactful and widely adopted across various industries.
 
