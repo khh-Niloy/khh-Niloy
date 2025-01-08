@@ -26,12 +26,12 @@ I am committed to advancing my knowledge and skills to become a proficient softw
 After solving several [A & B-level problems](https://github.com/khh-Niloy/codeforces_solution), I'm now focusing on web development.
 
 
-<p align="center">
+<p align="left">
   Codeforces Profile:
   <a href="https://codeforces.com/profile/niloy_fixer" target="_blank">niloy_fixer</a>
 </p>
 
-<p align="center">
+<p align="left">
   <img src="https://codeforces-readme-stats.vercel.app/api/card?username=niloy_fixer" alt="Codeforces Stats">
 </p>
 
