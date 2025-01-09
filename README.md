@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="" src="https://i.ibb.co.com/31xwdGD/Screenshot-2025-01-09-112640.png"  />
+  <img height="" src="https://i.ibb.co.com/84gfNXX/Screenshot-2025-01-09-113209.png"  />
 </div>
 
 ## 🔰 About Me
