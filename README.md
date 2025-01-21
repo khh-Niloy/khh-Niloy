@@ -13,7 +13,6 @@ I am committed to advancing my knowledge and skills to become a proficient softw
 ### 🎯 Professional Learning Objectives:
 - Initiate learning and development with **Next.js**
 - Deepen expertise in **React.js**
-- Enhance proficiency in **Backend Development**
 
 
 
