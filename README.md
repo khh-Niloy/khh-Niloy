@@ -11,6 +11,7 @@ I am committed to advancing my knowledge and skills to become a proficient softw
 ### 🚀 My portfolio : [khh-niloy](https://my-portfolio-seven-ashy-34.vercel.app/)
 
 ### 🎯 Professional Learning Objectives:
+- Explore the advantages of static type checking with TypeScript.
 - Initiate learning and development with **Next.js**
 - Deepen expertise in **React.js**
 
