@@ -64,7 +64,7 @@ After solving several [A & B-level problems](https://github.com/khh-Niloy/codefo
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" height="35" alt="facebook logo" />
   </a>
   &nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/khh-niloy-b7b8a91b5/" target="_blank">
+  <a href="https://www.linkedin.com/in/hasibhossain-niloy01/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" height="35" alt="linkedin logo" />
   </a>
   &nbsp;&nbsp;
