@@ -8,7 +8,7 @@
 
 I am committed to advancing my knowledge and skills to become a proficient software engineer, with a focus on building applications that deliver exceptional user experiences and exceed customer expectations. My objective is to address real-world challenges through technology, drive innovation, and develop software solutions that are impactful and widely adopted across various industries.
 
-### 🚀 My portfolio : <a href="https://niloy-portfolio.vercel.app/" target="_blank">updating...</a>
+### 🚀 My portfolio : <a href="https://niloy-portfolio.vercel.app/" target="_blank">Hasib Hossain Niloy</a>
 
 ## Current Stats
 
