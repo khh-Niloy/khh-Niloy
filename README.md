@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="" src="https://i.ibb.co.com/84gfNXX/Screenshot-2025-01-09-113209.png"  />
+  <img height="" src="https://i.ibb.co/ccdLQN78/Screenshot-2025-07-12-170205.png"  />
 </div>
 
 ## 🔰 About Me
@@ -74,7 +74,7 @@ After solving several [A & B-level problems](https://github.com/khh-Niloy/codefo
   <img src="https://skillicons.dev/icons?i=c" height="40" alt="c logo"  /> -->
 </div>
 
-## Connect with me
+## Contact with me
 
 - **Email:** [khhniloy0@gmail.com](mailto:khhniloy0@gmail.com)  
 - **WhatsApp:** [+8801915910291](https://wa.me/8801915910291)
