@@ -13,6 +13,8 @@ My next step is to deepen my understanding of Data Structures and Algorithms (DS
 ### 🚀 Portfolio : <a href="https://niloy-portfolio.vercel.app/" target="_blank">Hasib Hossain Niloy</a>
 ### 📄 Resume : <a href="https://drive.google.com/file/d/1BLx92Yt42G7AEEMrReQ2dp_ZNFCHl5as/view?usp=sharing" target="_blank">hasib_hossain_niloy_full_stack_developer</a>
 
+🟢 Currently building Career Copilot — an AI-powered job application assistant that lets users apply for jobs via email in one click using their resume and job description. It also offers resume editing, application tracking, and interview reminders.
+
 ## Current Stats
 
 <div align="center">
