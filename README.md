@@ -4,11 +4,14 @@
 
 ## 🔰 About Me
 
-### I am a learner and aspiring software engineer with a strong passion for developing fast, responsive MERN stack applications.
+### I'm a learner and aspiring Software Engineer, passionate about full-stack development and committed to writing clean, scalable, and maintainable code that aligns with industry best practices.
 
-I am committed to advancing my knowledge and skills to become a proficient software engineer, with a focus on building applications that deliver exceptional user experiences and exceed customer expectations. My objective is to address real-world challenges through technology, drive innovation, and develop software solutions that are impactful and widely adopted across various industries.
+Currently, I’m learning and building projects using Next.js, TypeScript, Express.js, Mongoose, Redux, and other modern tools — expanding beyond the traditional MERN stack to embrace more advanced and production-ready technologies.
 
-### 🚀 My portfolio : <a href="https://niloy-portfolio.vercel.app/" target="_blank">Hasib Hossain Niloy</a>
+My next step is to deepen my understanding of Data Structures and Algorithms (DSA) and apply them in real-world projects to build more efficient and optimized solutions. My goal is to become a proficient Software Engineer who builds impactful, user-centric software that solves real problems and drives innovation across industries.
+
+### 🚀 Portfolio : <a href="https://niloy-portfolio.vercel.app/" target="_blank">Hasib Hossain Niloy</a>
+### 📄 Resume : <a href="https://drive.google.com/file/d/1BLx92Yt42G7AEEMrReQ2dp_ZNFCHl5as/view?usp=sharing" target="_blank">hasib_hossain_niloy_full_stack_developery</a>
 
 ## Current Stats
 
@@ -56,6 +59,8 @@ After solving several [A & B-level problems](https://github.com/khh-Niloy/codefo
   <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=vercel" height="40" alt="vercel logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=redux" height="40" alt="vercel logo"  />
 
   
   <img width="12" />
@@ -71,17 +76,6 @@ After solving several [A & B-level problems](https://github.com/khh-Niloy/codefo
 
 ## Connect with me
 
-<div align="left">
-  <a href="https://www.facebook.com/khhniloy.niloy/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" height="35" alt="facebook logo" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/hasibhossain-niloy01/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" height="35" alt="linkedin logo" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="mailto:khhniloy0@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" height="35" alt="gmail logo" />
-  </a>
-</div>
+- **Email:** [khhniloy0@gmail.com](mailto:khhniloy0@gmail.com)  
+- **WhatsApp:** [+8801915910291](https://wa.me/8801915910291)
 
