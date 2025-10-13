@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="" src="https://i.ibb.co/ccdLQN78/Screenshot-2025-07-12-170205.png"  />
+  <img height="" src="https://res.cloudinary.com/dwrvergmd/image/upload/v1760377660/Mask_group_2_hmhddb.png"  />
 </div>
 
 ## 🔰 About Me
