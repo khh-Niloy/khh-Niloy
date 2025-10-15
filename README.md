@@ -11,7 +11,7 @@ Currently, I’m learning and building projects using Next.js, TypeScript, Expre
 My next step is to deepen my understanding of Data Structures and Algorithms (DSA) and apply them in real-world projects to build more efficient and optimized solutions. My goal is to become a proficient Software Engineer who builds impactful, user-centric software that solves real problems and drives innovation across industries.
 
 ### 🚀 Portfolio : <a href="https://b5a7-portfolio.vercel.app/" target="_blank">Hasib Hossain Niloy</a>
-### 📄 Resume : <a href="https://drive.google.com/file/d/1BLx92Yt42G7AEEMrReQ2dp_ZNFCHl5as/view?usp=sharing" target="_blank">hasib_hossain_niloy_full_stack_developer</a>
+### 📄 Resume : <a href="https://drive.google.com/file/d/1KZFklnuSC5Kx8-UFKNBNopffdtYatLpM/view?usp=sharing" target="_blank">hasib_hossain_niloy_full_stack_developer</a>
 
 🟢 Currently building Career Copilot — an AI-powered job application assistant that lets users apply for jobs via email in one click using their resume and job description. It also offers resume editing, application tracking, and interview reminders.
 
