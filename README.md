@@ -10,7 +10,7 @@ Currently, I’m learning and building projects using Next.js, TypeScript, Expre
 
 My next step is to deepen my understanding of Data Structures and Algorithms (DSA) and apply them in real-world projects to build more efficient and optimized solutions. My goal is to become a proficient Software Engineer who builds impactful, user-centric software that solves real problems and drives innovation across industries.
 
-### 💼  Right now, I am working as a Software Engineer at Lint Technologies!
+### 💼  Right now, I am working as a Software Engineer at Lint Technologies.
 ### 🚀 Portfolio : <a href="https://b5a7-portfolio.vercel.app/" target="_blank">Hasib Hossain Niloy</a>
 ### 📄 Resume : <a href="https://drive.google.com/file/d/1lBFZMJNUV-LiDfDIhm9ghs3sffHSakgz/view?usp=sharing" target="_blank">hasib_hossain_niloy_full_stack_developer</a>
 
