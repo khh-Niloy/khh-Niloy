@@ -12,7 +12,7 @@ My next step is to deepen my understanding of Data Structures and Algorithms (DS
 
 ### 💼  Right now, I am working as a Software Engineer at Lint Technologies.
 ### 🚀 Portfolio : <a href="https://b5a7-portfolio.vercel.app/" target="_blank">Hasib Hossain Niloy</a>
-### 📄 Resume : <a href="https://drive.google.com/file/d/1lBFZMJNUV-LiDfDIhm9ghs3sffHSakgz/view?usp=sharing" target="_blank">hasib_hossain_niloy_full_stack_developer</a>
+### 📄 Resume : <a href="https://drive.google.com/file/d/11_vctYR2nyf-pNFdO0wlrqidP7z-S3jt/view" target="_blank">hasib_hossain_niloy_full_stack_developer</a>
 
 ## Current Stats
 
