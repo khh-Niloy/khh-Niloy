@@ -4,15 +4,18 @@
 
 ## 🔰 About Me
 
-### I'm a learner and aspiring Software Engineer, passionate about full-stack development and committed to writing clean, scalable, and maintainable code that aligns with industry best practices.
+I'm a learner and aspiring Software Engineer with a strong passion for full-stack development. I’m focused on writing clean, scalable, and maintainable code that follows industry best practices.
 
-Currently, I’m learning and building projects using Next.js, TypeScript, Express.js, Mongoose, Redux, and other modern tools — expanding beyond the traditional MERN stack to embrace more advanced and production-ready technologies.
+In the next 2–5 years, I aim to transition into an engineering leadership role where I combine strong backend expertise with project ownership, team leadership, and people management.
 
-My next step is to deepen my understanding of Data Structures and Algorithms (DSA) and apply them in real-world projects to build more efficient and optimized solutions. My goal is to become a proficient Software Engineer who builds impactful, user-centric software that solves real problems and drives innovation across industries.
+Currently, I am learning and building projects using Next.js, TypeScript, Express.js, MongoDB (Mongoose), and Redux. I have also explored PostgreSQL, Prisma, and Supabase. At present, my primary focus is on ensuring performance, scalability, and optimization across all projects.
 
-### 💼  Right now, I am working as a Software Engineer at Lint Technologies.
 ### 🚀 Portfolio : <a href="https://b5a7-portfolio.vercel.app/" target="_blank">Hasib Hossain Niloy</a>
 ### 📄 Resume : <a href="https://drive.google.com/file/d/11_vctYR2nyf-pNFdO0wlrqidP7z-S3jt/view" target="_blank">hasib_hossain_niloy_full_stack_developer</a>
+## Contact with me
+
+- **Email:** [khhniloy0@gmail.com](mailto:khhniloy0@gmail.com)  
+- **WhatsApp:** [+8801915910291](https://wa.me/8801915910291)
 
 ## Current Stats
 
@@ -80,9 +83,3 @@ After solving several [A & B-level problems](https://github.com/khh-Niloy/codefo
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=c" height="40" alt="c logo"  /> -->
 </div>
-
-## Contact with me
-
-- **Email:** [khhniloy0@gmail.com](mailto:khhniloy0@gmail.com)  
-- **WhatsApp:** [+8801915910291](https://wa.me/8801915910291)
-
