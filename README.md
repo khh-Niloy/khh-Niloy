@@ -8,10 +8,10 @@ I'm a learner and aspiring Software Engineer with a strong passion for full-stac
 
 In the next 2–5 years, I aim to transition into an engineering leadership role where I combine strong backend expertise with project ownership, team leadership, and people management.
 
-Currently, I am learning and building projects using Next.js, TypeScript, Express.js, MongoDB (Mongoose), and Redux. I have also explored PostgreSQL, Prisma, and Supabase. At present, my primary focus is on ensuring performance, scalability, and optimization across all projects.
+Currently, I am learning Redis, Websocket, Docker
 
 ### 🚀 Portfolio : <a href="https://b5a7-portfolio.vercel.app/" target="_blank">Hasib Hossain Niloy</a>
-### 📄 Resume : <a href="https://drive.google.com/file/d/11_vctYR2nyf-pNFdO0wlrqidP7z-S3jt/view" target="_blank">hasib_hossain_niloy_full_stack_developer</a>
+### 📄 Resume : <a href="https://drive.google.com/file/d/1940F1IFvrjIDHQk184hnAMx3urUDNFxj/view" target="_blank">hasib_hossain_niloy_full_stack_developer</a>
 ## Contact with me
 
 - **Email:** [khhniloy0@gmail.com](mailto:khhniloy0@gmail.com)  
