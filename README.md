@@ -10,7 +10,7 @@ In the next 2–5 years, I aim to transition into an engineering leadership role
 
 Currently, I am learning Redis, Websocket, Docker
 
-### 🚀 Portfolio : <a href="https://b5a7-portfolio.vercel.app/" target="_blank">Hasib Hossain Niloy</a>
+### 🚀 Portfolio : updating...
 ### 📄 Resume : <a href="https://drive.google.com/file/d/1940F1IFvrjIDHQk184hnAMx3urUDNFxj/view" target="_blank">hasib_hossain_niloy_full_stack_developer</a>
 ## Contact with me
 
