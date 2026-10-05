@@ -8,7 +8,7 @@ I'm a learner and aspiring Software Engineer with a strong passion for full-stac
 
 In the next 2–5 years, I aim to transition into an engineering leadership role where I combine strong backend expertise with project ownership, team leadership, and people management.
 
-Currently, I am learning Redis, Websocket, Docker
+Currently, I am learning system design, ai engineering
 
 ### 🚀 Portfolio : <a href="https://b5a7-portfolio.vercel.app/" target="_blank">portfolio</a>
 ### 📄 Resume : <a href="https://drive.google.com/file/d/1m63B0IzgMWlqjeyCq-R_aS-V_vz-MRm7/view?usp=sharing" target="_blank">hasib_hossain_niloy_junior_software_engineer</a>
