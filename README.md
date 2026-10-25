@@ -11,7 +11,7 @@ In the next 2–5 years, I aim to transition into an engineering leadership role
 Currently, I am learning system design, ai engineering
 
 ### 🚀 Portfolio : <a href="https://b5a7-portfolio.vercel.app/" target="_blank">portfolio</a>
-### 📄 Resume : <a href="https://drive.google.com/file/d/1m63B0IzgMWlqjeyCq-R_aS-V_vz-MRm7/view?usp=sharing" target="_blank">hasib_hossain_niloy_junior_software_engineer</a>
+### 📄 Resume : <a href="https://drive.google.com/file/d/1kvazbK01I8KWbJbktxJz1E7bHqmp3LwT/view" target="_blank">hasib_hossain_niloy_junior_software_engineer</a>
 ## Contact with me
 
 - **Email:** [khhniloy0@gmail.com](mailto:khhniloy0@gmail.com)  
